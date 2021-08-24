@@ -12,7 +12,7 @@
 
 hi, i'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full stack developer and a freelance software engineer from brazil. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-  <img align="right" alt="GIF" src="https://github.com/valnermedeiros/valnermedeiros/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/valnermedeiros/valnermedeiros/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:valner.coding@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
