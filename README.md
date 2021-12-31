@@ -36,8 +36,7 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-YAML         57 mins         ██████████████▓░░░░░░░░░░   58.28 % 
-JavaScript   40 mins         ██████████▒░░░░░░░░░░░░░░   41.57 % 
+
 ```
 <!--END_SECTION:waka-->
 
