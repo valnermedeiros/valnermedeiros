@@ -36,7 +36,7 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+SQL    15 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
