@@ -36,8 +36,6 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 43 mins
-
 JavaScript   1 hr 5 mins     ███████████████▓░░░░░░░░░   63.17 % 
 SQL          18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.44 % 
 YAML         10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
