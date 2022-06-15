@@ -37,8 +37,10 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 <!--START_SECTION:waka-->
 
 ```text
-YAML     4 mins          ███████████████▒░░░░░░░░░   61.73 %
-Docker   3 mins          █████████▓░░░░░░░░░░░░░░░   38.27 %
+YAML     4 mins          ██████████▒░░░░░░░░░░░░░░   41.30 %
+Docker   3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
+Bash     2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+Other    1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
 ```
 
 <!--END_SECTION:waka-->
