@@ -37,8 +37,7 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   4 mins          ████████████████░░░░░░░░░   63.72 %
-YAML        2 mins          █████████░░░░░░░░░░░░░░░░   36.28 %
+Other       11 mins         █████████████████▓░░░░░░░   70.65 %
 ```
 
 <!--END_SECTION:waka-->
