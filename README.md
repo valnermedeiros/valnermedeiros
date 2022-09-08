@@ -37,10 +37,10 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 <!--START_SECTION:waka-->
 
 ```text
-Terraform    1 hr 48 mins    ███████████▒░░░░░░░░░░░░░   45.42 %
-JavaScript   48 mins         █████░░░░░░░░░░░░░░░░░░░░   20.31 %
-TypeScript   40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
-Other        17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+TypeScript   3 hrs 21 mins   ███████████████▓░░░░░░░░░   62.04 %
+Terraform    1 hr 18 mins    ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+JavaScript   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
