@@ -37,10 +37,10 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.26 %
-JSON         2 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
-JavaScript   1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.87 %
-Other        40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+TypeScript   5 hrs 29 mins   ████████████████▒░░░░░░░░   64.76 %
+JSON         1 hr 33 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+JavaScript   33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Other        29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
