@@ -37,9 +37,8 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 <!--START_SECTION:waka-->
 
 ```text
-Bash         30 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.55 %
-JSON         27 mins         █████░░░░░░░░░░░░░░░░░░░░   20.57 %
-Other        23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+Bash         29 mins         ███████▒░░░░░░░░░░░░░░░░░   29.15 %
+Other        20 mins         █████░░░░░░░░░░░░░░░░░░░░   20.55 %
 ```
 
 <!--END_SECTION:waka-->
