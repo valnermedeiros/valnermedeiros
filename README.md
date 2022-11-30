@@ -37,11 +37,11 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 <!--START_SECTION:waka-->
 
 ```text
-Rust       1 hr 46 mins    ███████████████████▒░░░░░   77.55 %
-Bash       11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-TOML       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Markdown   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-YAML       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Rust       2 hrs 22 mins   ██████████████████▒░░░░░░   73.78 %
+TOML       27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Bash       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Markdown   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+YAML       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
