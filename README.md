@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/valnermedeiros">
-  <img align="left" alt="Valner Medeiros | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Valner Medeiros | Twitter" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/valner-medeiros/">
-  <img align="left" alt="Valner Medeiros LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Valner Medeiros LinkedIN" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=valnermedeiros.valnermedeiros)
@@ -19,19 +19,19 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 
 **Languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rails.svg"></code>
+
 
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
