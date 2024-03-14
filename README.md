@@ -20,15 +20,17 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 **Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Supabase-Dark.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rust.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ruby.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Rails.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg"></code>
 
 
 📊 **This week i spent my time on:**
