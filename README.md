@@ -20,8 +20,6 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 **Languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg"></code>
