@@ -37,11 +37,11 @@ Hi, I'm [Valner Medeiros](https://github.com/valnermedeiros), a passionate full 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   38 mins         ████████▒░░░░░░░░░░░░░░░░   33.70 %
-JSON         21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
-Solidity     14 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
-YAML         14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-Bash         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+TypeScript   1 hr 14 mins    █████████▒░░░░░░░░░░░░░░░   37.89 %
+YAML         37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+JSON         27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
+Bash         24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+Solidity     16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
 ```
 
 <!--END_SECTION:waka-->
